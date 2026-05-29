@@ -1,0 +1,2 @@
+method,difference_order,mean_current_cigarette_users,mean_non_current_cigarette_users,estimated_difference,standard_error,welch_degrees_of_freedom,t_statistic,p_value,confidence_level,ci_lower,ci_upper
+Welch two-sample t-test,Current cigarette users minus non-current cigarette users,66.22920067548479,64.39446054813388,1.834740127350912,0.6227240095421426,3698.04434750355,2.946313453852379,0.0032359447017207936,0.95,0.613823894410318,3.055656360291506

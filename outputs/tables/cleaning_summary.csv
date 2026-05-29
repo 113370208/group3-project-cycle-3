@@ -1,0 +1,8 @@
+item,count
+Rows in raw dataset,14041
+Rows with missing CurrentCigaretteUse,718
+Rows with invalid CurrentCigaretteUse code outside 1-7,0
+Rows with missing BMIPCT,979
+Rows with BMIPCT outside 0-100,0
+Rows kept in clean analysis dataset,12437
+Rows removed from analysis dataset,1604

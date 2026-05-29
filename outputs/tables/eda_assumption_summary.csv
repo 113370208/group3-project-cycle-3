@@ -1,0 +1,3 @@
+cigarette_group,n,mean,variance,standard_deviation,q1,q3,iqr
+Current cigarette user,2434,66.229,760.214,27.572,46.08,90.827,44.747
+Non-current cigarette user,10003,64.394,754.768,27.473,44.914,88.704,43.79
